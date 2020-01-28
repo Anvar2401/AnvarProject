@@ -7,6 +7,7 @@ public class Class2
    
 		
 		System.out.println ("new class");
+		System.out.println ("Nodira");
 		
 	}
 
